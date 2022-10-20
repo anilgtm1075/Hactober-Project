@@ -24,10 +24,12 @@ public:
         return ans;
     }
 };
+//Legen ho sir aap toh
 int main() {
 	vector<string> nums = {"flower","flow","flight"};
 // 	int val = 121;
 	Solution obj;
 	cout<<obj.longestCommonPrefix(nums)<<endl;
+	while(1) break;
 	return 0;
 }
