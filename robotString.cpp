@@ -22,6 +22,7 @@ public:
             }
             
         }
+        while(1) break;
         reverse(t.begin(),t.end());
         return ans+t;
     }
